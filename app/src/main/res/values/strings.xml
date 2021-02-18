@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid</string>
+    <string name="toux">la toux aigue symptome courant du corona bla bla bla</string>
+    <string name="corona">Les coronavirus forment une vaste famille de virus qui peuvent être pathogènes chez l’homme
+        et chez l’animal. On sait que, chez l’être humain, plusieurs coronavirus peuvent entraîner des infections respiratoires
+        dont les manifestations vont du simple rhume à des maladies plus graves comme le syndrome respiratoire du Moyen-Orient (MERS)
+        et le syndrome respiratoire aigu sévère (SRAS). Le dernier coronavirus qui a été découvert est responsable de la maladie à coronavirus 2019 (COVID-19).</string>
+    <string name="coronapropag">Le virus qui entraîne la COVID-19 se transmet ‎principalement par des gouttelettes produites
+        ‎lorsqu’une personne infectée tousse, éternue, ou ‎lors d’une expiration. Ces gouttelettes sont trop ‎lourde
+        s pour rester dans l’air et tombent ‎rapidement sur le sol ou sur toute surface proche.‎ Vous pouvez être infecté
+        en respirant le virus, si ‎vous êtes à proximité d’une personne malade, ou en ‎touchant une surface contaminée puis vos yeux,
+        ‎votre nez ou votre bouche.‎</string>
+
+</resources>
